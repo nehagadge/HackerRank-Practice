@@ -1,4 +1,4 @@
-## HackerRank-Solutions
+## HackerRank-Practice
 
 This repository consists of my practice in HackerRank courses.
 
